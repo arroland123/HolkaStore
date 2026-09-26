@@ -2,7 +2,7 @@
 $host = "localhost";
 $user = "fgrrwgzv_admin";
 $pass = "LEKb8[PA6W^+~B)C";
-$db   = "holkastore";
+$db   = "fgrrwgzv_holkastore";
 
 $conn = mysqli_connect($host, $user, $pass, $db);
 
